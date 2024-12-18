@@ -3,7 +3,7 @@
 This Unity project facilitates advanced eye-gaze interaction for Magic Leap 2, offering customizable parameters for a target interactable sphere and multiple gaze-based interaction modes.
 
 ## Project Presentation
-🎯 [View Interactive Slides](https://bit.ly/ml2-eye-tracking)
+🎯 [View Interactive Slides](https://docs.google.com/presentation/d/e/2PACX-1vSasxWrCO8avF9lzqmTt53h6YSl2hmiosVbl-QIbkZFBoIZB1YnwwAWI_E_mhrVt3iZtTB2TvYeV3qZ/pub?start=true&loop=true&delayms=3000)
 
 ---
 
